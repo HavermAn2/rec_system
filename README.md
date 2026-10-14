@@ -1,1 +1,1 @@
-# rec_system
+The recommendation system is designed to help users discover movies and videos based on their interests and preferences. It analyzes information about the content and compares similar items to generate personalized recommendations. The main idea is to make content discovery easier by suggesting relevant movies and videos instead of requiring users to search manually. The system can also help users explore new content based on their existing interests, providing a more personalized and convenient experience.
